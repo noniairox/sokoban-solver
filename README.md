@@ -1,3 +1,7 @@
+[![Make.fun bounty](https://make.fun/badge/sokoban-solver-01-run-20261121.svg)](https://make.fun/bounty/sokoban-solver-01-run-20261121)
+[![Rank](https://make.fun/badge/sokoban-solver-01-run-20261121/noniairox/sokoban-solver/rank.svg)](https://make.fun/bounty/sokoban-solver-01-run-20261121)
+[![Reward](https://make.fun/badge/sokoban-solver-01-run-20261121/noniairox/sokoban-solver/reward.svg)](https://make.fun/bounty/sokoban-solver-01-run-20261121)
+
 # Sokoban solver
 
 Push-optimal Sokoban solver for make.fun's sokoban-solver-01-run-20261121.
